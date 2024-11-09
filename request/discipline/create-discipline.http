@@ -1,0 +1,10 @@
+
+POST http://localhost:8080/discipline HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Tiro Defensivo",
+    "instructor": "Carvalho",
+    "patent": "1º Ten PM"
+}
+

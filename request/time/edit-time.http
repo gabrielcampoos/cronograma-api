@@ -1,0 +1,11 @@
+
+PUT http://localhost:8080/time/e4a1f6e8-0286-4b27-9019-cdead333c5a8 HTTP/1.1
+content-type: application/json
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDJjNDg5LTdiMGItNGQ3Ny05ZjVjLTlkMDhhZmFjNDBlOCIsInVzZXJuYW1lIjoiZ2FicmllbCIsImlhdCI6MTczMTEyOTc0NiwiZXhwIjoxNzMxMTMzMzQ2fQ.Xo73tFoNbiwDLPL6oD-lWpn8XXyBhIVjGEE9EPB1vQQ
+
+{
+    "number": 1,
+    "startTime": "08:00",
+    "endTime": "10:45"
+}
+
